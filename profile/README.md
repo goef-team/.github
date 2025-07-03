@@ -27,7 +27,7 @@ Our mission is to set a new standard for ORM and data-access patterns in the Go 
 We ❤️ contributions from everyone!  
 Whether you’re a seasoned Go engineer or a first-time open source contributor, you’re welcome here.
 
-- Please read our [CONTRIBUTE.md](https://github.com/goef-team/.github/CONTRIBUTE.md) for details on our code of conduct, development workflow, and how to submit pull requests.
+- Please read our [CONTRIBUTE.md](../CONTRIBUTE.md) for details on our code of conduct, development workflow, and how to submit pull requests.
 - We follow industry-standard contribution, review, and community guidelines.
 
 ---
